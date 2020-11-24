@@ -2,8 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>komuna_web_platform</RootNamespace>
+    <RootNamespace>komuna_web_plattform</RootNamespace>
+    <AssemblyName>komuna-web-plattform</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Business\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
 
 
 </Project>

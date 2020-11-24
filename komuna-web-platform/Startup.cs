@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace komuna_web_platform
+namespace komuna_web_plattform
 {
     public class Startup
     {

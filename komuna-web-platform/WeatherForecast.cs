@@ -1,6 +1,6 @@
 using System;
 
-namespace komuna_web_platform
+namespace komuna_web_plattform
 {
     public class WeatherForecast
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace komuna_web_platform.Controllers
+namespace komuna_web_plattform.Controllers
 {
     [ApiController]
     [Route("[controller]")]

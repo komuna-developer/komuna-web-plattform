@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "komuna_web_platform": {
+    "komuna_web_plattform": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
